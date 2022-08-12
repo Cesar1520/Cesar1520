@@ -9,6 +9,7 @@
 </head>
 
 <body class="stackedit">
+<p><img src="https://lh3.googleusercontent.com/pw/AL9nZEWBzgrr-XUNFaPHXYFLEHJKRZhMxUB-quwV8H0JP6OK1iAvhdFqIKPYPGKbQihoTtDrYRblc1oPDGtHbgNAxVKHp_XdS8PjbWmys0hBQbX_4koGKf-WZaLS9Gg8Ct8YDhTPgMuYzrqpwGBrq9ofk1ZmMA=w414-h657-no?authuser=0"  alt="" width="100px"></p>
   <div class="stackedit__html"><p>Nombre: César López Gutiérrez<br>
 Lugar de nacimiento: Barranquilla<br>
 Cédula de ciudadanía: 1001890969<br>
@@ -30,7 +31,7 @@ Me interesa trabajar en proyectos con una innovación y alto nivel.</p>
 . Puntualidad<br>
 . Compromiso<br>
 . Creativad.</p>
-<p><img src="https://lh3.googleusercontent.com/pw/AL9nZEWBzgrr-XUNFaPHXYFLEHJKRZhMxUB-quwV8H0JP6OK1iAvhdFqIKPYPGKbQihoTtDrYRblc1oPDGtHbgNAxVKHp_XdS8PjbWmys0hBQbX_4koGKf-WZaLS9Gg8Ct8YDhTPgMuYzrqpwGBrq9ofk1ZmMA=w414-h657-no?authuser=0" alt=""></p>
+
 </div>
 </body>
 
