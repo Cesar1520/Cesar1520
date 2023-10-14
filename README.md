@@ -13,7 +13,6 @@
   <div class="stackedit__html"><p>Nombre: César López Gutiérrez<br>
 Lugar de nacimiento: Barranquilla<br>
 Cédula de ciudadanía: 1001890969<br>
-Estado civil: soltero<br>
 E-mail: <a href="mailto:lopezcesarg10@gmail.com">lopezcesarg10@gmail.com</a>.</p>
 <pre><code>        PERFIL PROFESIONAl 
 </code></pre>
@@ -25,7 +24,8 @@ Me interesa trabajar en proyectos con una innovación y alto nivel.</p>
 <p>Centro industrial y de aviación. Sena | Tecnologo en análisis y desarrollo de software.</p>
 <pre><code>           EXPERIENCIA
 </code></pre>
-<p>Tengo  2 años de experiencia como desarrollador en PHP.</p>
+<p>Un poco de conocimeinto en lenguaje Ruby, html, css.
+slq</p>
 <p>HABILIDADES:<br>
 . Trabajo en equipo<br>
 . Puntualidad<br>
